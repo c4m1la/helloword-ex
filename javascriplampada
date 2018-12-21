@@ -1,0 +1,9 @@
+function on () {
+    document.getElementById("lamp").src = "pic_bulbon.gif";
+
+}
+
+function off () {
+    document.getElementById("lamp").src = "pic_bulboff.gif";
+
+}
